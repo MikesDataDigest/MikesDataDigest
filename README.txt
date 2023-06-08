@@ -24,8 +24,8 @@ Email: cmikecarl01@gmail.com
 Phone: +639451557209
 Address: Poblacion, Tboli, South Cotabato 9513, Philippines
 LinkedIn: https://www.linkedin.com/in/mikecarlcastor/
-Portfolio Website: mikesdatadigest.github.io/PortfolioWebsite/
-YouTube Channel: youtube.com/channel/UCsEQiMAk0m3pGddsTOiNWfg
+Portfolio Website: https://mikesdatadigest.github.io/PortfolioWebsite/
+YouTube Channel:  https://youtube.com/channel/UCsEQiMAk0m3pGddsTOiNWfg
 
 
 I am always eager to collaborate and work on exciting data projects. Feel free to reach out to me through email or connect with me on LinkedIn.
