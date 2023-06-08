@@ -23,7 +23,7 @@ Contact information:
 Email: cmikecarl01@gmail.com
 Phone: +639451557209
 Address: Poblacion, Tboli, South Cotabato 9513, Philippines
-LinkedIn: LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/mikecarlcastor/
 Portfolio Website: mikesdatadigest.github.io/PortfolioWebsite/
 YouTube Channel: youtube.com/channel/UCsEQiMAk0m3pGddsTOiNWfg
 
